@@ -5,5 +5,5 @@ void main(){
 
     var fullName = '$firstName  $lastName';
 
-    print(fullname);
+    print(fullName);
 }
