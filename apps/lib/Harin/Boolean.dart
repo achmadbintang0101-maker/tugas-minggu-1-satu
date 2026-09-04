@@ -4,5 +4,5 @@ void main() {
     print (finish);
 
     finish = true;
-    print(fail);
+    print(finish);
 }
